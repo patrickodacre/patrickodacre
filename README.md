@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 
 [![PatrickODacreHeader](https://github.com/patrickodacre/patrickodacre/blob/master/assets/header-image.png)](http://buildtolearn.io)
 
+- 🔭 I’m currently working some top secret Go project. 
+- 🌱 I’m currently learning blockchain incl Hyperledger and Solidity
 
+- 📫 How to reach me: patrick@patrickwho.me
+
+### GitHub Stats
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=patrickodacre&theme=cobalt"
