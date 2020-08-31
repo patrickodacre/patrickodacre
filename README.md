@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 -->
 
 [![PatrickODacreHeader](https://github.com/patrickodacre/patrickodacre/blob/master/assets/header-image.png)](http://buildtolearn.io)
+
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=patrickodacre&theme=cobalt"
+/>
