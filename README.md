@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![PatrickODacreHeader](https://github.com/patrickodacre/patrickodacre/blob/master/assets/header.png)](http://buildtolearn.io)
+[![PatrickODacreHeader](https://github.com/patrickodacre/patrickodacre/blob/master/assets/header-image.png)](http://buildtolearn.io)
