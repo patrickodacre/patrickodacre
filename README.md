@@ -21,6 +21,10 @@ My name is Patrick O'Dacre, and I'm a software engineer living in Canada, eh.
 
 I am currently working on various projects using **Go**, **Hyperledger** and **Solidity**.
 
+- ⚡ Go
+- ⚡ Solidity, web3.js, etc.
+- ⚡ Hyperledger
+
 I started my coding adventure with PHP and JavaScript in 2015, but have found myself completely taken with <img src="https://github.com/patrickodacre/patrickodacre/blob/master/assets/gopher.svg" height="20" /> **Go**, the **decentralized web** and **blockchain**.
 
 - 📫 How to reach me: patrick@patrickwho.me
