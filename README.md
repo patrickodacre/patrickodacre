@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 😄 About
 
-My name is Patrick O'Dacre, and I'm a software engineer loves working with **Go** and building **DApps** on the Ethereum network.
+My name is Patrick O'Dacre, and I'm a software engineer who loves working with **Go** and building **DApps** on the Ethereum network.
 
 - ⚡ Go
 - ⚡ Solidity, web3.js, etc.
