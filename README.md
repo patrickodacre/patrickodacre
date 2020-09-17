@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 ## 😄 About
 
-My name is Patrick O'Dacre, and I'm a software engineer living in Canada, eh.
-
-I am currently working on various projects using **Go**, **Hyperledger** and **Solidity**.
+My name is Patrick O'Dacre, and I'm a software engineer loves working with **Go** and building **DApps** on the Ethereum network.
 
 - ⚡ Go
 - ⚡ Solidity, web3.js, etc.
-- ⚡ Hyperledger
+- ⚡ Go Ethereum - Geth
 
 I started my coding adventure with PHP and JavaScript in 2015, but have found myself completely taken with <img src="https://github.com/patrickodacre/patrickodacre/blob/master/assets/gopher.svg" height="20" /> **Go**, the **decentralized web** and **blockchain**.
 
