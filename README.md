@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 My name is Patrick O'Dacre, and I'm a full stack engineer who loves building **DApps** on the **Ethereum** network.
 
 - ⚡ Solidity Smart Contracts
-- ⚡ Web3JS
+- ⚡ Web3JS / EthersJS
 - ⚡ JavaScript / TypeScript
 - ⚡ NodeJS
 - ⚡ Go <img src="https://github.com/patrickodacre/patrickodacre/blob/master/assets/gopher.svg" height="20" />
