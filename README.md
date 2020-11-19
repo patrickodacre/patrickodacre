@@ -21,10 +21,11 @@ My name is Patrick O'Dacre, and I'm a full stack engineer who loves building **D
 
 - ⚡ Solidity Smart Contracts
 - ⚡ Web3JS / EthersJS
-- ⚡ JavaScript / TypeScript
-- ⚡ NodeJS
 - ⚡ Go <img src="https://github.com/patrickodacre/patrickodacre/blob/master/assets/gopher.svg" height="20" />
 - ⚡ Go Ethereum - Geth
+- ⚡ JavaScript / TypeScript
+- ⚡ NodeJS
+- ⚡ PHP
 
 I started my coding adventure with PHP and JavaScript in 2015, but have found myself completely taken with the **decentralized web** and **blockchain**.
 
