@@ -27,6 +27,8 @@ My name is Patrick O'Dacre, and I'm a full stack engineer who loves building **D
 - ⚡ NodeJS
 - ⚡ PHP
 
+
+
 - 📫 How to reach me: patrick@patrickwho.me
 
 ## &#x270d; Content
