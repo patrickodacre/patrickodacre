@@ -27,7 +27,7 @@ My name is Patrick O'Dacre, and I'm a full stack engineer who loves building **D
 - ⚡ NodeJS
 - ⚡ PHP
 
-
+If you have an interesting project you would like to discuss, feel free to reach out:
 
 - 📫 How to reach me: patrick@patrickwho.me
 
