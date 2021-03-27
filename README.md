@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## 😄 About
 
-My name is Patrick O'Dacre, and I'm a full stack engineer who loves building **DApps** on the **Ethereum** network.
+My name is Patrick O'Dacre, and I'm a full stack engineer who loves Blockchain.
 
-- ⚡ Solidity Smart Contracts
-- ⚡ Web3JS / EthersJS
+- ⚡ Ethereum / Solidity Smart Contracts
+- ⚡ Polkadot / Substrate
+- ⚡ Rust
 - ⚡ Go <img src="https://github.com/patrickodacre/patrickodacre/blob/master/assets/gopher.svg" height="20" />
-- ⚡ Go Ethereum - Geth
 - ⚡ JavaScript / TypeScript
 - ⚡ NodeJS
 - ⚡ PHP
