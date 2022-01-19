@@ -13,29 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Patrick ODacre Header](https://github.com/patrickodacre/patrickodacre/blob/master/assets/header-image.png)](http://buildtolearn.io)
-
 ## 😄 About
 
-My name is Patrick O'Dacre, and I'm a full stack engineer who loves Blockchain.
-
-- ⚡ Ethereum / Solidity Smart Contracts
-- ⚡ Polkadot / Substrate
-- ⚡ Rust
-- ⚡ Go <img src="https://github.com/patrickodacre/patrickodacre/blob/master/assets/gopher.svg" height="20" />
-- ⚡ JavaScript / TypeScript
-- ⚡ NodeJS
-- ⚡ PHP
-
-If you have an interesting project you would like to discuss, feel free to reach out:
-
-- 📫 How to reach me: patrick@patrickwho.me
-
-## &#x270d; Content
-
-I maintain a blog at [Build To Learn](http://buildtolearn.io) where I document my adventures with various things.
-
-I also maintain a [YouTube channel](http://buildtolearn.io/youtube) where I've enjoyed engaging with other developers from all other the world.
+I enjoy game programming in <a href="https://odin-lang.org/" target="_blank">Odin</a>.
 
 ## 
 <img
