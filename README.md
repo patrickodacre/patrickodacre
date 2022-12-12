@@ -16,10 +16,3 @@ Here are some ideas to get you started:
 ## 😄 About
 
 I enjoy game programming in <a href="https://odin-lang.org/" target="_blank">Odin</a>.
-
-## 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=patrickodacre&theme=cobalt"
-/>
-
