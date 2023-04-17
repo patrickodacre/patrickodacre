@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## ⚡ About
 
-I'm a professional programmer with a keen interest in cyber security.
+I'm a professional programmer with a keen interest in cybersecurity.
 
-I value curiosity, clear thinking, and a solution only as complex at the problem demands.
+I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
 > "An idiot admires complexity, a genius admires simplicity" - Terry Davis
 
