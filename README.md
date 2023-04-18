@@ -23,6 +23,11 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 > "You don't have to be a genius to make your software better - you just have to be willing to learn and willing to go against conventions." - <a href="https://handmade.network/manifesto" target="_blank">Handmade Manifesto.</a>
 
+## ⚔ Profiles
+
+- <a href="https://tryhackme.com/p/pdodacre" target="_blank">Try Hack Me</a>
+- <a href="https://www.linkedin.com/in/patrickodacre/" target="_blank">LinkedIn</a>
+
 ## 💻 Professional Experience
 
 - web application security
@@ -40,10 +45,6 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 - Ethical Hacking - Daniel G. Graham
 - Attacking Network Protocols - James Forshaw
-
-## ⚔ Profiles
-
-- <a href="https://tryhackme.com/p/pdodacre">Try Hack Me</a>
 
 ## 👾 Hobbying
 
