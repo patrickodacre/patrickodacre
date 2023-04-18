@@ -41,7 +41,9 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 - Ethical Hacking - Daniel G. Graham
 - Attacking Network Protocols - James Forshaw
 
-<a href="https://tryhackme.com/p/pdodacre" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/pdodacre.png" alt="TryHackMe"></a>
+## ⚔ Profiles
+
+- <a href="https://tryhackme.com/p/pdodacre">Try Hack Me</a>
 
 ## 👾 Hobbying
 
