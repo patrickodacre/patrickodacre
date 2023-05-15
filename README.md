@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## ⚡ About
 
-I'm a professional programmer with a keen interest in cybersecurity.
+I am an experienced software engineer focused on DevOps and Cyber Security.
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
@@ -32,6 +32,7 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 - web application security
 - multi-tenant web applications
+- platform engineer and developer tooling
 - web servers, loggers, and security tooling
 - database design
 - web3 smart contract programming and security auditing
@@ -40,11 +41,6 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 - Golang
 - Odin Lang
-
-## 👨‍🏫 Current Research
-
-- Ethical Hacking - Daniel G. Graham
-- Attacking Network Protocols - James Forshaw
 
 ## 👾 Hobbying
 
