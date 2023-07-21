@@ -42,6 +42,15 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 - Golang
 - Odin Lang
 
+## 🛠 Tooling and Platforms
+
+- AWS, DigitalOcean
+- Kubernetes, Docker, Vagrant
+- Ansible
+- Terraform
+- Packer
+- Jenkins, GitHub Actions
+
 ## 👾 Hobbying
 
 - game programming on YouTube with the <a href="https://odin-lang.org/" target="_blank">Odin</a> programming language @ <a target="_blank" href="https://youtube.com/@handmadegamesdev">Handmade Games</a>.
