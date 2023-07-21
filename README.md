@@ -45,6 +45,7 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 ## 👾 Hobbying
 
 - game programming on YouTube with the <a href="https://odin-lang.org/" target="_blank">Odin</a> programming language @ <a target="_blank" href="https://youtube.com/@handmadegamesdev">Handmade Games</a>.
+- web programming on YouTube @ <a target="_blank" href="https://youtube.com/@buildtolearn">Build to Learn</a>.
 
 
 
