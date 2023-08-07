@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## ⚡ About
 
-I am an experienced software engineer focused on DevOps and Cyber Security.
+I am an experienced software engineer too curious for my own good. Currently I'm working on blockchain programming using Rust and Substrate.
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
@@ -39,8 +39,9 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 ## 🔨 Favorite Tools
 
-- Golang
 - Odin Lang
+- Rust
+- Golang
 
 ## 🛠 Tooling and Platforms
 
