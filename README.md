@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 
 ## ⚡ About
 
-I am an experienced software engineer too curious for my own good. Currently I'm working on blockchain programming using Rust and Substrate.
+I am an experienced software engineer too curious for my own good.
+
+Currently working on web3:
+
+1. Rust, Substrate, Cosmwasm, Solana
+2. Solidity, Huff
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
@@ -30,17 +35,19 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 ## 💻 Professional Experience
 
+- web3 smart contract programming and security auditing
+- web3 infra
 - web application security
 - multi-tenant web applications
 - platform engineer and developer tooling
 - web servers, loggers, and security tooling
 - database design
-- web3 smart contract programming and security auditing
 
 ## 🔨 Favorite Tools
 
 - Odin Lang
 - Rust
+- Solidity, Huff
 - Golang
 
 ## 🛠 Tooling and Platforms
