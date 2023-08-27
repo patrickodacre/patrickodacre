@@ -47,7 +47,7 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 - Odin Lang
 - Rust
-- Solidity, Huff
+- Solidity, Huff, Yul
 - Golang
 
 ## 🛠 Tooling and Platforms
