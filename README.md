@@ -20,7 +20,7 @@ I am an experienced software engineer too curious for my own good.
 Currently working on web3:
 
 1. Rust, Substrate, Cosmwasm, Solana
-2. Solidity, Huff
+2. Solidity, Huff, Yul
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
