@@ -21,6 +21,7 @@ Currently working on:
 
 1. Distributed Systems with Golang and Rust
 2. Microservices && Kubernetes
+3. Game programming with C++
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
