@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am an experienced software engineer too curious for my own good.
 
-Currently working on web3:
+Currently working on:
 
-1. Rust, Substrate, Cosmwasm, Solana
-2. Solidity, Huff
+1. Distributed Systems with Golang and Rust
+2. Microservices && Kubernetes
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
@@ -35,19 +35,18 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 
 ## 💻 Professional Experience
 
-- web3 smart contract programming and security auditing
-- web3 infra
-- web application security
-- multi-tenant web applications
-- platform engineer and developer tooling
+- microservices / distributed systems
 - web servers, loggers, and security tooling
+- multi-tenant web applications
 - database design
+- platform engineer and developer tooling
+- web3 infra, smart contract programming and security auditing
+- web application security
 
 ## 🔨 Favorite Tools
 
 - Odin Lang
 - Rust
-- Solidity, Huff
 - Golang
 
 ## 🛠 Tooling and Platforms
