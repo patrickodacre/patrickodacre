@@ -15,19 +15,23 @@ Here are some ideas to get you started:
 
 ## ⚡ About
 
-I am an experienced software engineer too curious for my own good.
+I am an experienced software engineer with a passion for cybersecurity.
 
 Currently working on:
 
-1. Distributed Systems with Golang and Rust
-2. Microservices && Kubernetes
-3. Game programming with C++
+Disrupting cybercrime at scale @ PICDO && Rexxfield.
 
 I value curiosity, clear thinking, and a solution only as complex as the problem demands.
 
 > "An idiot admires complexity, a genius admires simplicity" - Terry Davis
 
 > "You don't have to be a genius to make your software better - you just have to be willing to learn and willing to go against conventions." - <a href="https://handmade.network/manifesto" target="_blank">Handmade Manifesto.</a>
+
+## 💻 Open for work?
+
+Absolutely.
+
+I enjoy doing small contracts here and there, but I'm always open to exploring long-term roles.
 
 ## ⚔ Profiles
 
@@ -43,6 +47,8 @@ I value curiosity, clear thinking, and a solution only as complex as the problem
 - platform engineer and developer tooling
 - web3 infra, smart contract programming and security auditing
 - web application security
+- cloud security
+- threat detection, pen testing, and threat hunting
 
 ## 🔨 Favorite Tools
 
