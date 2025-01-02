@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## ⚡ About
 
-I am an experienced software engineer with a passion for cybersecurity.
+I am an experienced software engineer with a passion for cybersecurity, privacy, and secure computing.
 
 Currently working on:
 
