@@ -19,9 +19,9 @@ I am an experienced software engineer with a passion for cybersecurity.
 
 Currently working on:
 
-Disrupting cybercrime at scale @ PICDO && Rexxfield.
-
-I value curiosity, clear thinking, and a solution only as complex as the problem demands.
+* Confidential Computing solutions using AWS Nitro Enclaves
+* Lead Developer - The Water Health Index
+* Lead Developer - Missionary Connect
 
 > "An idiot admires complexity, a genius admires simplicity" - Terry Davis
 
@@ -33,14 +33,14 @@ Absolutely.
 
 I enjoy doing small contracts here and there, but I'm always open to exploring long-term roles.
 
-## ⚔ Profiles
+## ⚔ Let's Connect
 
-- <a href="https://tryhackme.com/p/pdodacre" target="_blank">Try Hack Me</a>
+- <a href="https://x.com/patrickodacre" target="_blank">X / Twitter</a>
 - <a href="https://www.linkedin.com/in/patrickodacre/" target="_blank">LinkedIn</a>
 
 ## 💻 Professional Experience
 
-- microservices / distributed systems
+- AWS Nitro Enclaves
 - web servers, loggers, and security tooling
 - multi-tenant web applications
 - database design
@@ -48,22 +48,21 @@ I enjoy doing small contracts here and there, but I'm always open to exploring l
 - web3 infra, smart contract programming and security auditing
 - web application security
 - cloud security
-- threat detection, pen testing, and threat hunting
 
 ## 🔨 Favorite Tools
 
+- Laravel
 - Odin Lang
 - Rust
 - Golang
 
 ## 🛠 Tooling and Platforms
 
-- AWS, DigitalOcean
-- Kubernetes, Docker, Vagrant
+- AWS, especially CloudFormation and Nitro Enclaves
+- DigitalOcean
+- Docker, Vagrant
 - Ansible
 - Terraform
-- Packer
-- Jenkins, GitHub Actions
 
 ## 👾 Hobbying
 
